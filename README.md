@@ -2,9 +2,15 @@
 
 #### Mission 1: Merge พัง
 
-**อธิบาย**: Branch feature-A ถูก merge มาผิด ทำให้ไฟล์ src/app.js หายไปบางส่วน
+**อธิบาย**: Branch feature-A ถูก merge มาผิด ทำให้ไฟล์ src/app.js หายไปบางส่วน ส่วนที่หายไปคือ
 
-**งาน**: กู้ branch feature-A กลับมาก่อน merge นั้น (ใช้ reset หรือ revert ได้)
+```javascript
+console.log("Dev CORE feature-A_1");
+console.log("Dev CORE feature-A_2");
+console.log("Dev CORE feature-A_3");
+```
+
+**งาน**: กู้ branch feature-A กลับมา โดยจะต้องมี feature ที่หายไปทั้งหมดพร้อมกับ feature ใหม่ เพื่อที่จะเตรียมตัว merge เข้า main (ใช้ reset หรือ revert ได้)
 
 **เป้าหมาย**: src/app.js ต้องกลับมาพร้อมโค้ดจาก feature A เเละ feature-A-01
 
