@@ -29,3 +29,4 @@ console.log("Dev CORE feature-B-04_4");
 console.log("Dev CORE feature-B-04_5");
 console.log("Dev CORE feature-B-04_6");
 console.log("Dev CORE feature-B-04_7");
+console.log("Dev CORE feature-B-04_8");
