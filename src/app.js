@@ -13,6 +13,7 @@ console.log("Dev CORE feature-B-01_1");
 console.log("Dev CORE feature-B-01_2");
 console.log("Dev CORE feature-B-01_3");
 console.log("Dev CORE feature-B-01_4");
+console.log("Dev CORE feature-B-01_5");
 // ================= Feature B-02 =================
 console.log("Initial feature-B-02_1");
 console.log("Dev feature-B-02_2");
