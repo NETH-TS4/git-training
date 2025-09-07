@@ -12,3 +12,4 @@ console.log("Dev feature-B-01_3");
 console.log("Dev CORE feature-B-01_1");
 console.log("Dev CORE feature-B-01_2");
 console.log("Dev CORE feature-B-01_3");
+console.log("Dev CORE feature-B-01_4");
