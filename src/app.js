@@ -13,3 +13,16 @@ console.log("Dev CORE feature-B-02_1");
 console.log("Dev CORE feature-B-02_2");
 console.log("Dev CORE feature-B-02_3");
 console.log("Dev CORE feature-B-02_4");
+
+// ================= Feature B-04 =================
+console.log("Refactor Initial feature-B-04_1");
+console.log("Refactor Dev feature-B-04_2");
+console.log("Refactor Dev feature-B-04_3");
+console.log("Refactor Dev CORE feature-B-04_1");
+console.log("Refactor Dev CORE feature-B-04_2");
+console.log("Refactor Dev CORE feature-B-04_3");
+console.log("Refactor Dev CORE feature-B-04_4");
+console.log("Refactor Dev CORE feature-B-04_5");
+console.log("Refactor Dev CORE feature-B-04_6");
+console.log("Refactor Dev CORE feature-B-04_7");
+console.log("Refactor Dev CORE feature-B-04_8");
