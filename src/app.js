@@ -13,4 +13,7 @@ console.log("Dev CORE feature-B-02_1");
 console.log("Dev CORE feature-B-02_2");
 console.log("Dev CORE feature-B-02_3");
 console.log("Dev CORE feature-B-02_4");
+
+// === This block should be on prod ===
 console.log("Hello Workshop B");
+// === This block should be on prod ===
