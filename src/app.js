@@ -4,3 +4,12 @@ console.log("Dev feature-B_3");
 console.log("Dev CORE feature-B_1");
 console.log("Dev CORE feature-B_2");
 console.log("Dev CORE feature-B_3");
+
+// ================= Feature B-02 =================
+console.log("Initial feature-B-02_1");
+console.log("Dev feature-B-02_2");
+console.log("Dev feature-B-02_3");
+console.log("Dev CORE feature-B-02_1");
+console.log("Dev CORE feature-B-02_2");
+console.log("Dev CORE feature-B-02_3");
+console.log("Dev CORE feature-B-02_4");
