@@ -16,7 +16,7 @@ console.log("Dev CORE feature-B-01_4");
 console.log("Dev CORE feature-B-01_5");
 console.log("Dev CORE feature-B-01_6");
 console.log("Dev CORE feature-B-01_7");
-console.log("Dev CORE feature-B-01_8");
+console.log("Dev CORE feature-B-01_8_FIXBUG");
 // ================= Feature B-02 =================
 console.log("Initial feature-B-02_1");
 console.log("Dev feature-B-02_2");
